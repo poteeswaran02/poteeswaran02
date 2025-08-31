@@ -1,7 +1,7 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi 👋, I'm Poteeswaran M </h1>
-<h3 align="center">Studing Finial Year </h3>
+<h3 align="center">Studing Finial Year BCA🎓 </h3>
 
 <!-- Typing animation -->
 <p align="center">
@@ -11,9 +11,9 @@
 ---
 
 ### 🚀 About Me  
-- 🌱 I’m currently learning *React.js ,Node.js,MongoDB*  
+- 🌱 I’m currently learning *MERN STACK DEVELOPMENT*  
 - 👨‍💻 All of my projects are available [here](https://github.com/poteeswaran02)  
-- 💬 Ask me about *HTML, CSS, PHP*    
+- 💬 Ask me about *HTML, CSS*    
 
 ---
 
@@ -38,7 +38,3 @@
 
 ---
 
-### 📝 Footer  
-<p align="center">
-  © 2025 Poteeswaran M | Designed with ❤
-</p>
